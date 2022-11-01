@@ -39,4 +39,6 @@ nosetests.xml
 *.sqlite
 
 # Virtual environment
-venv
+.venv
+node_modules
+.env
